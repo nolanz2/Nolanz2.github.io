@@ -1,7 +1,7 @@
 /*	
- * autor:		nolanz2
+ * author:		nolanz2
  * date:		3/31/2019  
- * licence:	for-education-only
+ * license:	for-education-only
  * desc:		css-for-html
  * 
  */
@@ -22,23 +22,14 @@
 	
 }
 
-/*::placeholder
-{
-	color: 								white;
-	opacity: 							0.3;
-	font-size: 						17px;
-	font-weight:					normal;
-	text-shadow:					none;
-	text-align: 					center;
-}
-*/
 ::-webkit-scrollbar 
 {	/* hide-scrollbar */
 	display: 							none;
 }
 
 body
-{	/* customize-body */
+{	
+/* customize-body */
 	/*background: url("../img/bg/bg.jpg") no-repeat center center fixed;*/
 	background: no-repeat center center fixed;	
 	margin: 							0 0 0 0;
@@ -56,6 +47,7 @@ body
     background-size: cover;
 }
 
+/*Display settings for clock*/
 #main {
 	text-align:center;
     background-size: cover;
@@ -145,7 +137,7 @@ body
 }
 
 
-
+/*Shortcut icon display*/
 #reddit
 {
 	
