@@ -3,5 +3,5 @@
 
 Homepage avaliable for use now at [Nolanz2.me](https://nolanz2.github.io/)
 
-![](screenshot.png)
+![](Screenshot.png)
 
